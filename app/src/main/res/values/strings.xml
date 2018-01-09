@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">first_application</string>
+
+
+    <string name="first_button">START</string>
+    <string name="second_button">PLAY</string>
+
+</resources>
